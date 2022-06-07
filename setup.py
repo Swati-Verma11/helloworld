@@ -1,4 +1,4 @@
 from setuptools import setup
 
 if __name__ == "__main__":
-    setup(  version='1.2.0',)
+    setup(  version='0.0.1',)
